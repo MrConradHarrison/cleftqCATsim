@@ -1,0 +1,9 @@
+﻿Scale name,Validation response filename,First item column number,Last item column number,Minimum theta,Maximum theta,Number of items
+Face,face_validation_responses.csv,189,197,-5.102245,3.273139,9
+Jaw,jaw_validation_responses.csv,205,211,-5.596149,3.909932,7
+Teeth,teeth_validation_responses.csv,230,237,-4.368382,3.690954,8
+School,school_validation_responses.csv,148,157,-5.531932,2.271613,10
+Psych,psych_validation_responses.csv,128,137,-5.822476,3.07164,10
+Sdistress,sdistress_validation_responses.csv,170,179,-5.290374196,3.042105374,10
+Sfunction,sfunction_validation_responses.csv,158,169,-5.651659277,3.387676142,12
+Social,social_validation_responses.csv,138,147,-5.427621,2.357078,10
