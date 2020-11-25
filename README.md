@@ -48,7 +48,7 @@ At this point, the you can produce a kernel density plot of validation dataset f
 scoreDistribution("Face", linear_results)
 ```
 
-<img src="https://raw.githubusercontent.com/MrConradHarrison/cleftqCATsim/master/man/figures/KD.png" width="500" height="600">
+<img src="https://raw.githubusercontent.com/MrConradHarrison/cleftqCATsim/main/man/figures/KDplot.png" width="500" height="600">
 
 
 Standard error of measurement can be plotted against factor score using the thetaBySEM function
@@ -57,7 +57,7 @@ Standard error of measurement can be plotted against factor score using the thet
 thetaBySEM("Face", linear_results)
 ```
 
-<img src="https://raw.githubusercontent.com/MrConradHarrison/cleftqCATsim/master/man/figures/thetaBySEM.png" width="500" height="600">
+<img src="https://raw.githubusercontent.com/MrConradHarrison/cleftqCATsim/main/man/figures/thetaBySEM.png" width="500" height="600">
 
 ## CAT simulation
 
@@ -134,4 +134,4 @@ Bland Altman plots can be created using the plotBA function, for example the fol
 ```
 plotBA("Face", face_val, stopping_rule = 7)
 ```
-<img src="https://raw.githubusercontent.com/MrConradHarrison/cleftqCATsim/master/man/figures/BA.png" width="500" height="600">
+<img src="https://raw.githubusercontent.com/MrConradHarrison/cleftqCATsim/main/man/figures/BA.png" width="500" height="600">
