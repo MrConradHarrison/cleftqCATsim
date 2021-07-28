@@ -1,6 +1,8 @@
 
 # cleftqCATsim
 
+Welcome to cleftqCATsim, an R package for evaluating the performance of the CLEFT-Q computerised adaptive test. Please follow this vignette to recreate our validation study from your own data, or explore the functions above for a more in-depth understanding of our methodology.
+
 ## Installation 
 
 Install and load the cleftqCATsim package using the following code
